@@ -1,6 +1,6 @@
 ## Install a ton of great apps using Homebrew cask instead of downloading, clicking and manually installing :)
 
-little-snitch
+#little-snitch
 #trim-enabler
 menumeters
 apptrap
@@ -21,9 +21,9 @@ suspicious-package
 # ---- multimedia stuff -----
 vlc
 transmission
-flash-player
-google-chrome
-google-drive
+#flash-player
+#google-chrome
+#google-drive
 # ---- Developper -----
 dash
 sourcetree
@@ -47,6 +47,6 @@ radiant-player
 #gopro-studio
 #adobe-dng-converter
 #pixelmator
-#cuda
+cuda
 
 
